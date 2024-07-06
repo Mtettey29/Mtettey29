@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Tettey</h1>
 <h3 align="center">A passionate fullstack developer from Accra, Ghana</h3>
 
+![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/Mtettey29/Mtettey29/assets/108237623/6950343f-9354-4822-a4da-6c7fd123bd56)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtettey29&label=Profile%20views&color=0e75b6&style=flat" alt="mtettey29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtettey29" alt="mtettey29" /></a> </p>
