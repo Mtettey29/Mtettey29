@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Tettey</h1>
 <h3 align="center">A passionate fullstack developer from Accra, Ghana</h3>
 
-![New Banner](https://github.com/Mtettey29/Mtettey29/blob/main/Blue%20And%20White%20Modern%20Elegant%20Contact%20Layout%20For%20Mortgage%20Broker%20Email%20Signature.png)
+![New Banner](https://github.com/Mtettey29/Mtettey29/blob/main/Cover.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtettey29&label=Profile%20views&color=0e75b6&style=flat" alt="mtettey29" /> </p>
 
