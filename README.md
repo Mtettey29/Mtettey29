@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael Tettey</h1>
 <h3 align="center">A passionate fullstack developer from Accra, Ghana</h3>
 
-![Neutral Creative Professional LinkedIn Article Cover Image](https://github.com/Mtettey29/Mtettey29/assets/108237623/6950343f-9354-4822-a4da-6c7fd123bd56)
+![New Banner](https://github.com/Mtettey29/Mtettey29/blob/main/Blue%20And%20White%20Modern%20Elegant%20Contact%20Layout%20For%20Mortgage%20Broker%20Email%20Signature.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtettey29&label=Profile%20views&color=0e75b6&style=flat" alt="mtettey29" /> </p>
 
@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **phthon, java and c++**
+- 💬 Ask me about **python, java and c++**
 
 - 📫 How to reach me **michaeltettey29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/12Xs7ruw3ubBJ3gz4TF0bMBmXPVda1uqs?usp=sharing](https://drive.google.com/drive/folders/12Xs7ruw3ubBJ3gz4TF0bMBmXPVda1uqs?usp=sharing)
+- 📄 Know about my experiences [My Portfolio](https://michaeltettey.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
