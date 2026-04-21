@@ -1,11 +1,19 @@
-# Michael Tettey
+<h1 align="center">Hi, I'm Michael</h1>
+<h3 align="center">Cloud & DevOps Practitioner · Cybersecurity Enthusiast · Accra, Ghana</h3>
 
-**IT Professional · Cloud Practitioner · Cybersecurity Enthusiast**  
-Accra, Ghana &nbsp;|&nbsp; [michaeltettey.dev](https://michaeltettey.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/michaeltettey) &nbsp;|&nbsp; [@Papa_Nhee](https://x.com/Papa_Nhee)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mtettey29&label=Profile%20views&color=0e75b6&style=flat" alt="mtettey29" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mtettey29&margin-w=8&no-frame=true" alt="mtettey29" />
+  </a>
+</p>
 
+---
 
-\```bash
+```bash
 $ whoami
 Michael Tettey — BSc IT (First Class Honours), Methodist University Ghana
 
@@ -18,83 +26,98 @@ SOC Analyst / Cybersecurity Professional
 
 $ cat location.txt
 Accra, Ghana — working across US client accounts (Eastern Time)
-\```
+```
 
 ---
 
-## About
-
-I build at the intersection of cloud infrastructure, operations, and security. My work spans carrier operations coordination, DevOps consulting through Wɔte Digital, and continuous self-development toward a career in cybersecurity. I am a community-driven practitioner who learns in public and believes in sharing knowledge along the way.
-
----
-
-## Tech Stack
-
-**Cloud & Infrastructure**  
-AWS · Azure · Terraform · Kubernetes · Docker · Linux
-
-**DevOps & Automation**  
-CI/CD · GitHub Actions · Bash · WordPress · SEO
-
-**Data & Productivity**  
-Python · SQL · QuickBooks · ALX Data Analytics
-
-**Currently Learning**  
-SIEM · Threat Detection · Incident Response · Cloud Security
+- I'm currently working on [KwameAI](https://github.com/Mtettey29/KwameAI)
+- I'm currently learning Kubernetes, Docker and Cloud Security
+- All of my projects are available at [michaeltettey.dev](https://michaeltettey.dev)
+- I write articles at [michaeltettey.dev/thoughtsbymike](https://michaeltettey.dev/thoughtsbymike)
+- Reach me at michaeltettey29@gmail.com
+- Fun fact: I hate bugs
 
 ---
 
-## Certifications
+### Connect with me
 
-| Certification | Issuer | Year |
-|---|---|---|
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
-| Data Analytics | ALX Africa | 2026 |
-| Professional Foundations | ALX Africa | 2025 |
-| Virtual Assistance | ALX Africa | 2024 |
-| AI Career Essentials | ALX Africa | 2024 |
-| Founders Academy | ALX Africa | 2024 |
-| QuickBooks ProAdvisor | Intuit | 2024 |
-| Google Digital Marketing | Google | 2020 |
-| CCNA Diploma | Cisco | 2016 |
+<p align="center">
+  <a href="https://linkedin.com/in/michaeltettey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/papa_nhee"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/mtettey29"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://medium.com/@michaeltettey29"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/thoughtsbymike_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/thoughtsbymike_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
 
 ---
 
-## Projects
+### Languages and Tools
 
-**[Wɔte Digital](https://wotedigital.com)**  
-Cloud and DevOps consultancy offering infrastructure setup, automation, and managed services. Stack: AWS, Azure, Terraform, Kubernetes, WordPress.
+**Cloud & Infrastructure**
 
-**[Your Interior Designer](https://instagram.com/__interiordesigngh)**  
-Interior design brand and community built from scratch since 2020. 2,700+ Instagram followers, active TikTok presence.
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-**[michaeltettey.dev](https://michaeltettey.dev)**  
-Personal portfolio and digital home. Built with TypeScript, deployed on a self-hosted VPS via Dokploy and Traefik.
+**DevOps & Containers**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Frontend & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+**Data & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ---
 
-## Writing & Community
+### GitHub Stats
 
-- LinkedIn article: [At 13, I had my whole life figured out](https://linkedin.com/in/michaeltettey) — a personal story of resilience and persistence
-- Peer learning group facilitator for Linux Foundation LFS 250 (Kubernetes and Cloud Native Essentials)
-- ALX Community — active contributor and ambassador candidate
-- MEST AI Startup Program (Class of 2027) — prospective applicant
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtettey29&show_icons=true&locale=en&layout=compact&hide_border=true" alt="mtettey29" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtettey29&show_icons=true&locale=en&hide_border=true" alt="mtettey29" />
+</p>
 
-## GitHub Stats
-
-![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mtettey29&show_icons=true&hide_border=true&count_private=true&theme=default)
-
----
-
-## Connect
-
-- Portfolio: [michaeltettey.dev](https://michaeltettey.dev)
-- LinkedIn: [linkedin.com/in/michaeltettey](https://linkedin.com/in/michaeltettey)
-- X: [@Papa_Nhee](https://x.com/Papa_Nhee)
-- GitHub: [@Mtettey29](https://github.com/Mtettey29)
-- Wɔte Digital: [@wotedigital](https://x.com/wotedigital)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mtettey29&hide_border=true" alt="mtettey29" />
+</p>
 
 ---
 
