@@ -4,6 +4,7 @@
 Accra, Ghana &nbsp;|&nbsp; [michaeltettey.dev](https://michaeltettey.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/michaeltettey) &nbsp;|&nbsp; [@Papa_Nhee](https://x.com/Papa_Nhee)
 
 ---
+https://github.com/Mtettey29/Mtettey29/blob/58191e6d53bcceeb9ecefbd2cd1ab0800bf4b45d/Cover.png
 
 \```bash
 $ whoami
