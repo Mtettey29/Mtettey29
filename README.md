@@ -1,42 +1,101 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">DevOps Engineer from Accra, Ghana</h3>
+# Michael Tettey
 
-![New Banner](https://github.com/Mtettey29/Mtettey29/blob/main/Cover.png)
+**IT Professional · Cloud Practitioner · Cybersecurity Enthusiast**  
+Accra, Ghana &nbsp;|&nbsp; [michaeltettey.dev](https://michaeltettey.dev) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/michaeltettey) &nbsp;|&nbsp; [@Papa_Nhee](https://x.com/Papa_Nhee)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtettey29" alt="mtettey29" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/papa_nhee" target="blank"><img src="https://img.shields.io/twitter/follow/papa_nhee?logo=twitter&style=for-the-badge" alt="papa_nhee" /></a> </p>
+\```bash
+$ whoami
+Michael Tettey — BSc IT (First Class Honours), Methodist University Ghana
 
-- 🔭 I’m currently working on [KwameAI](https://github.com/Mtettey29/KwameAI)
+$ cat current_role.txt
+Carrier Operations Coordinator · Bandwidth Global
+Founder · Wɔte Digital (Cloud & DevOps Consultancy)
 
-- 🌱 I’m currently learning **Kubernetes,Docker and GCP**
+$ echo $CAREER_TARGET
+SOC Analyst / Cybersecurity Professional
 
-- 👨‍💻 All of my projects are available at [https://www.michaeltettey.dev](https://www.michaeltettey.dev)
+$ cat location.txt
+Accra, Ghana — working across US client accounts (Eastern Time)
+\```
 
-- 📝 I regularly write articles on [https://www.michaeltettey.dev/thoughtsbymike](https://www.michaeltettey.dev/thoughtsbymike)
+---
 
-- 📫 How to reach me **michaeltettey29@gmail.com**
+## About
 
-- 📄 Know about my experiences [https://michaeltettey.dev/Michael_Tettey_CV.pdf](https://michaeltettey.dev/Michael_Tettey_CV.pdf)
+I build at the intersection of cloud infrastructure, operations, and security. My work spans carrier operations coordination, DevOps consulting through Wɔte Digital, and continuous self-development toward a career in cybersecurity. I am a community-driven practitioner who learns in public and believes in sharing knowledge along the way.
 
-- ⚡ Fun fact **I hate Bugs**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mtettey29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mtettey29" height="30" width="40" /></a>
-<a href="https://twitter.com/papa_nhee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="papa_nhee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michaeltettey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michaeltettey" height="30" width="40" /></a>
-<a href="https://instagram.com/thoughtsbymike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thoughtsbymike_" height="30" width="40" /></a>
-<a href="https://medium.com/@michaeltettey29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@michaeltettey29" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wote digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wote digital" height="30" width="40" /></a>
-<a href="https://discord.gg/thoughtsbymike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thoughtsbymike_" height="30" width="40" /></a>
-</p>
+## Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Cloud & Infrastructure**  
+AWS · Azure · Terraform · Kubernetes · Docker · Linux
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtettey29&show_icons=true&locale=en&layout=compact" alt="mtettey29" /></p>
+**DevOps & Automation**  
+CI/CD · GitHub Actions · Bash · WordPress · SEO
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtettey29&show_icons=true&locale=en" alt="mtettey29" /></p>
+**Data & Productivity**  
+Python · SQL · QuickBooks · ALX Data Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtettey29&" alt="mtettey29" /></p>
+**Currently Learning**  
+SIEM · Threat Detection · Incident Response · Cloud Security
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2025 |
+| Data Analytics | ALX Africa | 2026 |
+| Professional Foundations | ALX Africa | 2025 |
+| Virtual Assistance | ALX Africa | 2024 |
+| AI Career Essentials | ALX Africa | 2024 |
+| Founders Academy | ALX Africa | 2024 |
+| QuickBooks ProAdvisor | Intuit | 2024 |
+| Google Digital Marketing | Google | 2020 |
+| CCNA Diploma | Cisco | 2016 |
+
+---
+
+## Projects
+
+**[Wɔte Digital](https://wotedigital.com)**  
+Cloud and DevOps consultancy offering infrastructure setup, automation, and managed services. Stack: AWS, Azure, Terraform, Kubernetes, WordPress.
+
+**[Your Interior Designer](https://instagram.com/__interiordesigngh)**  
+Interior design brand and community built from scratch since 2020. 2,700+ Instagram followers, active TikTok presence.
+
+**[michaeltettey.dev](https://michaeltettey.dev)**  
+Personal portfolio and digital home. Built with TypeScript, deployed on a self-hosted VPS via Dokploy and Traefik.
+
+---
+
+## Writing & Community
+
+- LinkedIn article: [At 13, I had my whole life figured out](https://linkedin.com/in/michaeltettey) — a personal story of resilience and persistence
+- Peer learning group facilitator for Linux Foundation LFS 250 (Kubernetes and Cloud Native Essentials)
+- ALX Community — active contributor and ambassador candidate
+- MEST AI Startup Program (Class of 2027) — prospective applicant
+
+---
+
+## GitHub Stats
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mtettey29&show_icons=true&hide_border=true&count_private=true&theme=default)
+
+---
+
+## Connect
+
+- Portfolio: [michaeltettey.dev](https://michaeltettey.dev)
+- LinkedIn: [linkedin.com/in/michaeltettey](https://linkedin.com/in/michaeltettey)
+- X: [@Papa_Nhee](https://x.com/Papa_Nhee)
+- GitHub: [@Mtettey29](https://github.com/Mtettey29)
+- Wɔte Digital: [@wotedigital](https://x.com/wotedigital)
+
+---
+
+*"Count it all joy when you face trials of many kinds." — James 1:2*
