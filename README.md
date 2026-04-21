@@ -3,8 +3,6 @@
 
 ![New Banner](https://github.com/Mtettey29/Mtettey29/blob/main/Cover.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mtettey29&label=Profile%20views&color=0e75b6&style=flat" alt="mtettey29" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtettey29" alt="mtettey29" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/papa_nhee" target="blank"><img src="https://img.shields.io/twitter/follow/papa_nhee?logo=twitter&style=for-the-badge" alt="papa_nhee" /></a> </p>
