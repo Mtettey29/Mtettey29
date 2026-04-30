@@ -19,4 +19,4 @@ I'm the founder of [Wɔte Digital](https://wotedigital.tech), a digital products
 - LinkedIn: [linkedin.com/in/michaeltettey](https://linkedin.com/in/michaeltettey)
 - Email: michaeltettey29@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtettey29&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtettey29&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark&bg_color=00000000)
