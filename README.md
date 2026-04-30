@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Michael
+###  Hi, I'm Michael
  
 I'm a Cloud & DevOps engineer based in Accra, Ghana. I work where infrastructure, data, and product meet — taking ideas and turning them into systems that ship, stay up, and make sense to the people who rely on them.
  
