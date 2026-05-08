@@ -12,10 +12,4 @@ I'm the founder of [Wɔte Digital](https://wotedigital.tech), a digital products
  
 [![Development](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,supabase,git,figma)](https://skillicons.dev)
  
-#### Contact
- 
-- Portfolio: [michaeltettey.dev](https://michaeltettey.dev)
-- X: [@Papa_Nhee](https://x.com/Papa_Nhee)
-- LinkedIn: [linkedin.com/in/michaeltettey](https://linkedin.com/in/michaeltettey)
-- Email: michaeltettey29@gmail.com
 
