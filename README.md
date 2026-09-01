@@ -16,6 +16,6 @@ I'm the founder of [Wɔte Digital](https://wotedigital.tech), and I write occasi
 
 #### Tools I work with
 
-[![Cloud and Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,bash,prometheus,grafana)](https://skillicons.dev)
+[![Cloud and Infrastructure](https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,linux,prometheus,grafana)](https://skillicons.dev)
 
-[![Development](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,supabase,git,figma)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=python,ts,js,react,nodejs,supabase,git,figma,bash,github)](https://skillicons.dev)
