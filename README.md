@@ -10,6 +10,7 @@ I'm the founder of [Wɔte Digital](https://wotedigital.tech), and I write occasi
 
 <p>
   <img src="https://images.credly.com/size/48x48/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="48" height="48">
+  <a href="https://www.credly.com/badges/c035f4c0-01f6-4fe6-987d-23c6d47957ce/public_url"><img src="https://images.credly.com/size/48x48/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="48" height="48"></a>
   <img src="https://images.credly.com/size/48x48/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate (KCNA)" width="48" height="48">
   <img src="https://images.credly.com/size/48x48/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="48" height="48">
 </p>
